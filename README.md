@@ -16,7 +16,7 @@ cd devfestNairobi
 terraform init
 
 Step 2:
-Create the auto mode network "devfestoffice" along with its firewall rule and two VM instances (office_vm_1 and office_vm_2).
+Create the auto mode network along with its firewall rule and two VM instances (office_vm_1 and office_vm_2).
 Create a new file called mynetwork.tf
 
 Step 3:
