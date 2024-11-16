@@ -12,7 +12,7 @@ add: provider "google" {}
 
 In the terminal, change directory to your foldername and innitialize terraform
 example
-cd devfestNairobi
+cd devfestKigali
 terraform init
 
 Step 2:
